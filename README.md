@@ -22,7 +22,7 @@ Clone the repository:
 Install dependencies:
 - pip install -r requirements.txt
 
-Uses libraries:
+Libraries Used:
 - streamlit
 - opencv-python
 - numpy
