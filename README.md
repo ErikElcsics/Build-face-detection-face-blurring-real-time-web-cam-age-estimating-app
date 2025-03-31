@@ -16,7 +16,7 @@ Features:
 Installation:
 
 Clone the repository:
-- git clone https://github.com/your-username/face-detection-app.git
+- git clone https://github.com/ErikElcsics/Build-face-detection-face-blurring-real-time-web-cam-age-estimating-app.git
 - cd face-detection-app
 
 Install dependencies:
